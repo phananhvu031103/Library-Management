@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6901d2c33772468ea1062ea29b520487" Name="Diagram1">
+        <EntityTypeShape EntityType="qlthuviendbModel.CHITIETPHIEUMUON" Width="1.5" PointX="7.5" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.LOAIDG" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.LOAINV" Width="1.5" PointX="7.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.LOAISACH" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.NHANVIEN" Width="1.5" PointX="10" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.PHIEUMUON" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.QUYDINH" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.SACH" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlthuviendbModel.THEDOCGIA" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="qlthuviendbModel.FK_CHITIETPHIEUMUON_PHIEUMUON" ManuallyRouted="false" />
+        <AssociationConnector Association="qlthuviendbModel.FK_CHITIETPHIEUMUON_SACH" ManuallyRouted="false" />
+        <AssociationConnector Association="qlthuviendbModel.FK_THEDOCGia_LOAIDG" ManuallyRouted="false" />
+        <AssociationConnector Association="qlthuviendbModel.FK_NHANVIEN_LOAINV" ManuallyRouted="false" />
+        <AssociationConnector Association="qlthuviendbModel.FK_SACH_LOAISACH" ManuallyRouted="false" />
+        <AssociationConnector Association="qlthuviendbModel.FK_PHIEUMUON_THEDOCGia" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

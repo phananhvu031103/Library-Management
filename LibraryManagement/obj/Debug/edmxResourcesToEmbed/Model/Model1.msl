@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="qlthuviendbModelStoreContainer" CdmEntityContainer="qlthuviendbEntities">
+    <EntitySetMapping Name="CHITIETPHIEUMUONs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.CHITIETPHIEUMUON">
+        <MappingFragment StoreEntitySet="CHITIETPHIEUMUON">
+          <ScalarProperty Name="MaPM" ColumnName="MaPM" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="MaSach" ColumnName="MaSach" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIDGs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.LOAIDG">
+        <MappingFragment StoreEntitySet="LOAIDG">
+          <ScalarProperty Name="MaLDG" ColumnName="MaLDG" />
+          <ScalarProperty Name="TenLDG" ColumnName="TenLDG" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAINVs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.LOAINV">
+        <MappingFragment StoreEntitySet="LOAINV">
+          <ScalarProperty Name="MaLNV" ColumnName="MaLNV" />
+          <ScalarProperty Name="TenLNV" ColumnName="TenLNV" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAISACHes">
+      <EntityTypeMapping TypeName="qlthuviendbModel.LOAISACH">
+        <MappingFragment StoreEntitySet="LOAISACH">
+          <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+          <ScalarProperty Name="TenLS" ColumnName="TenLS" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIENs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="MaLNV" ColumnName="MaLNV" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIEUMUONs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.PHIEUMUON">
+        <MappingFragment StoreEntitySet="PHIEUMUON">
+          <ScalarProperty Name="MaPM" ColumnName="MaPM" />
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="NgayMuon" ColumnName="NgayMuon" />
+          <ScalarProperty Name="NgayTra" ColumnName="NgayTra" />
+          <ScalarProperty Name="TienPhat" ColumnName="TienPhat" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUYDINHs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.QUYDINH">
+        <MappingFragment StoreEntitySet="QUYDINH">
+          <ScalarProperty Name="MaQD" ColumnName="MaQD" />
+          <ScalarProperty Name="TenQD" ColumnName="TenQD" />
+          <ScalarProperty Name="KieuDL" ColumnName="KieuDL" />
+          <ScalarProperty Name="GiaTri" ColumnName="GiaTri" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SACHes">
+      <EntityTypeMapping TypeName="qlthuviendbModel.SACH">
+        <MappingFragment StoreEntitySet="SACH">
+          <ScalarProperty Name="MaSach" ColumnName="MaSach" />
+          <ScalarProperty Name="TenSach" ColumnName="TenSach" />
+          <ScalarProperty Name="TacGia" ColumnName="TacGia" />
+          <ScalarProperty Name="NamXB" ColumnName="NamXB" />
+          <ScalarProperty Name="NhaXB" ColumnName="NhaXB" />
+          <ScalarProperty Name="NgayNhap" ColumnName="NgayNhap" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THEDOCGIAs">
+      <EntityTypeMapping TypeName="qlthuviendbModel.THEDOCGIA">
+        <MappingFragment StoreEntitySet="THEDOCGIA">
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Diachi" ColumnName="Diachi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NgayLT" ColumnName="NgayLT" />
+          <ScalarProperty Name="MaLDG" ColumnName="MaLDG" />
+          <ScalarProperty Name="Xoa" ColumnName="Xoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

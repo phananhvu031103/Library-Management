@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel="clr-namespace:LibraryManagement.ViewModel"
+                    xmlns:local="clr-namespace:LibraryManagement.ResourceXAML">
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+    <viewmodel:LoginViewModel x:Key="LoginVM"></viewmodel:LoginViewModel>
+    <viewmodel:SachViewModel x:Key="SachVM"></viewmodel:SachViewModel>
+    <viewmodel:QuyDinhViewModel x:Key="QuyDinhVM"></viewmodel:QuyDinhViewModel>
+    <viewmodel:LoaiSachViewModel x:Key="LoaiSachVM"></viewmodel:LoaiSachViewModel>
+    <viewmodel:LoaiDocGiaViewModel x:Key="LoaiDocGiaVM"></viewmodel:LoaiDocGiaViewModel>
+    <viewmodel:LoaiNhanVienViewModel x:Key="LoaiNhanVienVM"></viewmodel:LoaiNhanVienViewModel>
+    <viewmodel:NhanVienViewModel x:Key="NhanVienVM"></viewmodel:NhanVienViewModel>
+    <viewmodel:ChangePasswordViewModel x:Key="ChangePasswordVM"></viewmodel:ChangePasswordViewModel>
+    <viewmodel:TheDocGiaViewModel x:Key="TheDocGiaVM"></viewmodel:TheDocGiaViewModel>
+</ResourceDictionary>

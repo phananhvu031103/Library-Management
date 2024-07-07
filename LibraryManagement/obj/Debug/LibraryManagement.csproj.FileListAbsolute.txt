@@ -1,0 +1,228 @@
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignColors.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.cache
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.lref
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\App.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.g.resources
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_Content.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\App.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_Content.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.cache
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.lref
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignColors.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.dll
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.xml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.xml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\App.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\ResourceXAML\MainResource.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.g.resources
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.g.cs
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.baml
+D:\1612798\phân tích và thiết kế phần mềm\1612794_1612798\New folder\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.baml
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.g.cs
+C:\Users\DELL\source\repos\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.baml
+D:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignColors.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.dll
+D:\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.xml
+D:\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.xml
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\App.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_Content.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.cache
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.lref
+D:\LibraryManagement\LibraryManagement\obj\Debug\App.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\ResourceXAML\MainResource.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.baml
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.g.resources
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignColors.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.dll
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.xml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\System.Windows.Interactivity.xml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\App.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_Content.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.cache
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement_MarkupCompile.lref
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\App.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\ResourceXAML\MainResource.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\AddPhieuMuonWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\BaoCaoThongKeUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ChangePasswordWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ControlBarUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiDocGiaWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiNhanVienWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoaiSachWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\LoginWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\MainWindow.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\NhanVienUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\PhieuMuonUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\ProfileUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\QuyDinhUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\SachUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\UserControlLibrary\TheDocGiaUC.baml
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.g.resources
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryM.685EF3B5.Up2Date
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
